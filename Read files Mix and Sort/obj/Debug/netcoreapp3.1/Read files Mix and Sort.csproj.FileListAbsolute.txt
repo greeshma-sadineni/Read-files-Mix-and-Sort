@@ -1,0 +1,13 @@
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.exe
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.deps.json
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.runtimeconfig.json
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.runtimeconfig.dev.json
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.dll
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\bin\Debug\netcoreapp3.1\Read files Mix and Sort.pdb
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.csprojAssemblyReference.cache
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.csproj.CoreCompileInputs.cache
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.AssemblyInfoInputs.cache
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.AssemblyInfo.cs
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.dll
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.pdb
+C:\Users\91970\source\repos\Read files Mix and Sort\Read files Mix and Sort\obj\Debug\netcoreapp3.1\Read files Mix and Sort.genruntimeconfig.cache
